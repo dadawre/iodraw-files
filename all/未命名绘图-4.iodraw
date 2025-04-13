@@ -151,7 +151,7 @@
         <mxCell id="t3CMy3YUK3-TW6VX4jSu-6" value="IP封禁模块" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="555" y="1066" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40fUH33rusdfydwcDo0i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="40fUH33rusdfydwcDo0i-1" target="40fUH33rusdfydwcDo0i-3">
+        <mxCell id="40fUH33rusdfydwcDo0i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;exitX=0.632;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="40fUH33rusdfydwcDo0i-1" target="40fUH33rusdfydwcDo0i-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="40fUH33rusdfydwcDo0i-1" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png;fontStyle=1" vertex="1" parent="1">
