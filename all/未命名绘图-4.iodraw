@@ -160,6 +160,9 @@
         <mxCell id="40fUH33rusdfydwcDo0i-3" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png" vertex="1" parent="1">
           <mxGeometry x="576" y="1360" width="95" height="93" as="geometry" />
         </mxCell>
+        <mxCell id="40fUH33rusdfydwcDo0i-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1463" width="40" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
