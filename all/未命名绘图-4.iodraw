@@ -163,6 +163,9 @@
         <mxCell id="40fUH33rusdfydwcDo0i-5" value="kali主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="228" y="1455" width="60" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="40fUH33rusdfydwcDo0i-6" value="ubuntu服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="574" y="1457" width="91" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
