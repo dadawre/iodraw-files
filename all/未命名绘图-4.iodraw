@@ -151,23 +151,23 @@
         <mxCell id="t3CMy3YUK3-TW6VX4jSu-6" value="IP封禁模块" style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="555" y="1066" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="40fUH33rusdfydwcDo0i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="40fUH33rusdfydwcDo0i-1" target="40fUH33rusdfydwcDo0i-3">
+        <mxCell id="40fUH33rusdfydwcDo0i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1" edge="1" parent="1" source="40fUH33rusdfydwcDo0i-1" target="40fUH33rusdfydwcDo0i-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="40fUH33rusdfydwcDo0i-1" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png" vertex="1" parent="1">
+        <mxCell id="40fUH33rusdfydwcDo0i-1" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="217" y="1360" width="95" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="40fUH33rusdfydwcDo0i-3" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png" vertex="1" parent="1">
+        <mxCell id="40fUH33rusdfydwcDo0i-3" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="576" y="1360" width="95" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="40fUH33rusdfydwcDo0i-5" value="kali主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="40fUH33rusdfydwcDo0i-5" value="kali主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="228" y="1455" width="60" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="40fUH33rusdfydwcDo0i-6" value="ubuntu服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="40fUH33rusdfydwcDo0i-6" value="ubuntu服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="574" y="1457" width="91" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="40fUH33rusdfydwcDo0i-7" value="ping测试，tcp测试，https测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1380" width="179" height="26" as="geometry" />
+        <mxCell id="40fUH33rusdfydwcDo0i-7" value="ping测试，tcp测试，https测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="345" y="1381" width="179" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
