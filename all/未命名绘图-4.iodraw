@@ -152,7 +152,10 @@
           <mxGeometry x="555" y="1066" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="40fUH33rusdfydwcDo0i-1" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="578" y="1389" width="80" height="80" as="geometry" />
+          <mxGeometry x="217" y="1360" width="95" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="40fUH33rusdfydwcDo0i-2" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="481" y="1360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
