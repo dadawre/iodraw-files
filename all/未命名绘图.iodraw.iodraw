@@ -15,14 +15,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Sej3GtjV5cE_yLv3HbV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Sej3GtjV5cE_yLv3HbV-1" target="2Sej3GtjV5cE_yLv3HbV-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="788" y="491" />
-              <mxPoint x="961" y="491" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2Sej3GtjV5cE_yLv3HbV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Sej3GtjV5cE_yLv3HbV-1" target="2Sej3GtjV5cE_yLv3HbV-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -38,6 +30,9 @@
               <mxPoint x="445" y="492" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2Sej3GtjV5cE_yLv3HbV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Sej3GtjV5cE_yLv3HbV-1" target="2Sej3GtjV5cE_yLv3HbV-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2Sej3GtjV5cE_yLv3HbV-1" value="前端页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="728" y="395" width="120" height="60" as="geometry" />
