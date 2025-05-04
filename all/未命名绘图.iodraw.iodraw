@@ -57,6 +57,9 @@
         <mxCell id="2Sej3GtjV5cE_yLv3HbV-7" value="前端页面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1082" y="536" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2Sej3GtjV5cE_yLv3HbV-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="350" width="38" height="283" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
