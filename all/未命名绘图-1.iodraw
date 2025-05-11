@@ -81,8 +81,8 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-8" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="539" y="893" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPcX12OMout_dUz-4NrT-15" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="759" y="883" width="80" height="80" as="geometry" />
+        <mxCell id="vPcX12OMout_dUz-4NrT-15" value="是否匹配黑白名单" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="883" width="131" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
