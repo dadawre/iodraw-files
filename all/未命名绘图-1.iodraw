@@ -79,16 +79,16 @@
           <mxGeometry x="568" y="958" width="34" height="31" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-41" value="白名单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="435" y="992" width="66" height="31" as="geometry" />
+          <mxGeometry x="445" y="995" width="66" height="31" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-42" value="黑名单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="711" y="997" width="66" height="31" as="geometry" />
+          <mxGeometry x="688" y="997" width="66" height="31" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-43" value="放行" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="459" y="1033" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-44" value="阻断" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1033" width="120" height="60" as="geometry" />
+          <mxGeometry x="621" y="1033" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPcX12OMout_dUz-4NrT-45" target="vPcX12OMout_dUz-4NrT-52">
           <mxGeometry relative="1" as="geometry" />
