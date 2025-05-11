@@ -93,6 +93,9 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-21" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="800" y="991" width="34" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-23" value="白名单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="584" y="1059.5" width="66" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
