@@ -102,6 +102,9 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-44" value="阻断" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="642" y="1057.75" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-45" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="891.75" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
