@@ -75,8 +75,14 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-6" value="预处理" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="893" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPcX12OMout_dUz-4NrT-8" target="vPcX12OMout_dUz-4NrT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-8" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="893" width="120" height="60" as="geometry" />
+          <mxGeometry x="539" y="893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-15" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="759" y="883" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
