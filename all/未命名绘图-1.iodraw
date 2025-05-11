@@ -108,14 +108,17 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-44" value="阻断" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="642" y="1057.75" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPcX12OMout_dUz-4NrT-45" target="vPcX12OMout_dUz-4NrT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-45" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="714" y="881.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-47" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="668.5" y="885" width="34" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="vPcX12OMout_dUz-4NrT-52" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="724" y="891.75" width="120" height="60" as="geometry" />
+        <mxCell id="vPcX12OMout_dUz-4NrT-52" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="893" y="881.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
