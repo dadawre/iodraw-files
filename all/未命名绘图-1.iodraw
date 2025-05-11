@@ -78,6 +78,9 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-36" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="881.75" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vPcX12OMout_dUz-4NrT-37" target="vPcX12OMout_dUz-4NrT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-37" value="是否匹配&lt;div&gt;黑白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="870" width="120" height="83.5" as="geometry" />
         </mxCell>
@@ -103,7 +106,10 @@
           <mxGeometry x="642" y="1057.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-45" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="891.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="714" y="881.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-47" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="583" y="974.75" width="34" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
