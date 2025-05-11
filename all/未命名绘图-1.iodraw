@@ -99,8 +99,8 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-24" value="黑名单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="892" y="1031.5" width="66" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="vPcX12OMout_dUz-4NrT-25" value="黑白名单匹配" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="632" y="1072" width="120" height="60" as="geometry" />
+        <mxCell id="vPcX12OMout_dUz-4NrT-25" value="放行" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="1069" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
