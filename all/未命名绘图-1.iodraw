@@ -123,6 +123,9 @@
         <mxCell id="vPcX12OMout_dUz-4NrT-52" value="解析各层协议" style="whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="893" y="881.75" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-55" value="是否匹配&lt;div&gt;黑白名单&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="880" width="120" height="83.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
