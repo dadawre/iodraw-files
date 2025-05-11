@@ -91,10 +91,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-21" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="741" y="988" width="34" height="31" as="geometry" />
+          <mxGeometry x="752" y="977" width="34" height="31" as="geometry" />
         </mxCell>
         <mxCell id="vPcX12OMout_dUz-4NrT-23" value="白名单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="584" y="1059.5" width="66" height="31" as="geometry" />
+          <mxGeometry x="623" y="1034" width="66" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="vPcX12OMout_dUz-4NrT-24" value="白名单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="633" y="1044" width="66" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
