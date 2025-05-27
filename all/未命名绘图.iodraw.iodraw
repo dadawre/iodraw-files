@@ -49,11 +49,11 @@
         <mxCell id="GmwohVTlWmkrx5ogE0df-18" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;基于误用的入侵检测&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="505" y="206" width="165" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="GmwohVTlWmkrx5ogE0df-19" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;基于异常的入侵检测&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="GmwohVTlWmkrx5ogE0df-19" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;在线检测&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="505" y="354" width="165" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="GmwohVTlWmkrx5ogE0df-20" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;基于异常的入侵检测&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="512" y="429" width="165" height="47" as="geometry" />
+        <mxCell id="GmwohVTlWmkrx5ogE0df-20" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;离线检测&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="505" y="428" width="165" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
